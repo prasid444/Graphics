@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1457939614 source:c:\users\prasidha\desktop\gra\graphics.cpp
+	"Object.h"
+	"MatVec.h"
+	"Graphics.h"
+
+1457861152 c:\users\prasidha\desktop\gra\object.h
+	"Graphics.h"
+	"MatVec.h"
+	"Transformation.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<list>
+
+1457939622 c:\users\prasidha\desktop\gra\graphics.h
+	<SDL/SDL.h>
+	"MatVec.h"
+	<math.h>
+	<cassert>
+	"MatVec.h"
+
+1457861158 c:\users\prasidha\desktop\gra\matvec.h
+	<math.h>
+
+1427548368 c:\users\prasidha\desktop\gra\transformation.h
+	"MatVec.h"
+	<math.h>
+
+1489812036 source:c:\users\prasidha\desktop\gra\main.cpp
+	"Object.h"
+	"MatVec.h"
+	"Graphics.h"
+	"Transformation.h"
+
+1427548368 source:c:\users\prasidha\desktop\gra\matvec.cpp
+	"MatVec.h"
+
+1458240688 source:c:\users\prasidha\desktop\gra\object.cpp
+	"Object.h"
+
+1457939242 source:c:\users\prasidha\desktop\gra\transformation.cpp
+	"Transformation.h"
+
